@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/00_arraycalls/00_arraycalls.iml" filepath="$PROJECT_DIR$/00_arraycalls/00_arraycalls.iml" />
       <module fileurl="file://$PROJECT_DIR$/00_recap/00_recap.iml" filepath="$PROJECT_DIR$/00_recap/00_recap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_switch/01_switch.iml" filepath="$PROJECT_DIR$/01_switch/01_switch.iml" />
       <module fileurl="file://$PROJECT_DIR$/htlwienwest_4bbif_pos01_2026.iml" filepath="$PROJECT_DIR$/htlwienwest_4bbif_pos01_2026.iml" />
     </modules>
   </component>
