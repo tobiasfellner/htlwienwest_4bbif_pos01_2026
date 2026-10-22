@@ -1,7 +1,11 @@
+import javax.management.modelmbean.ModelMBeanInfoSupport;
+
 public class Auto {
     // Felder
     String marke;
     int anzTueren;
+
+    Besitzer besitzer;
 
     // Konstruktoren
     public Auto(String marke, int anzTueren){
@@ -17,10 +21,12 @@ public class Auto {
 
     public Auto(String marke){
         this(marke, 3);
+        this.besitzer = new Besitzer("xy");
     }
 
-    public Auto(){
+    public Auto(Besitzer besitzer){
         this("unkown");
+        this.besitzer = besitzer;
     }
 
     // Methoden
