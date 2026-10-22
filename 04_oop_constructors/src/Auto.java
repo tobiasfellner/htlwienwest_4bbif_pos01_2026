@@ -4,8 +4,9 @@ public class Auto {
     // Felder
     String marke;
     int anzTueren;
-
     Besitzer besitzer;
+
+    int geschwindkeit;
 
     // Konstruktoren
     public Auto(String marke, int anzTueren){
@@ -30,4 +31,20 @@ public class Auto {
     }
 
     // Methoden
+
+    public void beschleunige(int val){
+        geschwindkeit = geschwindkeit + val;
+    }
+
+    public void stoppe(){
+        geschwindkeit = 0;
+    }
+
+    public void ausgabeGeschwindigkeit(){
+        System.out.println("Geschwindigkeit: "+ this.geschwindkeit);
+    }
+
+    public boolean istInBewegung(){
+        return geschwindkeit != 0;
+    }
 }

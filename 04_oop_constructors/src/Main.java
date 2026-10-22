@@ -15,5 +15,27 @@ public class Main {
 
         Besitzer unknown = new Besitzer("unknown");
         System.out.println("Besitzer von unknown ist " + unknown.vorname);
+
+
+        // Methoden Aufrufe
+        vwPolo.ausgabeGeschwindigkeit();
+        vwPolo.beschleunige(10);
+        vwPolo.ausgabeGeschwindigkeit();
+
+        vwPolo.beschleunige(20);
+        vwPolo.ausgabeGeschwindigkeit();
+
+        vwPolo.stoppe();
+        vwPolo.ausgabeGeschwindigkeit();
+
+        if(vwPolo.istInBewegung()){
+            System.out.println("Polo bewegt sich");
+        }
+        else{
+            System.out.println("Polo steht");
+        }
+
+        System.out.println("Fährt Golf? " + vwGolf.istInBewegung());
+
     }
 }

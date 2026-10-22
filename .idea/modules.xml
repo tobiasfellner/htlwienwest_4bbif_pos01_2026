@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/03_csv/03_csv.iml" filepath="$PROJECT_DIR$/03_csv/03_csv.iml" />
       <module fileurl="file://$PROJECT_DIR$/04_oop01/04_oop01.iml" filepath="$PROJECT_DIR$/04_oop01/04_oop01.iml" />
       <module fileurl="file://$PROJECT_DIR$/04_oop_constructors/04_oop_constructors.iml" filepath="$PROJECT_DIR$/04_oop_constructors/04_oop_constructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_oop_methods/04_oop_methods.iml" filepath="$PROJECT_DIR$/04_oop_methods/04_oop_methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/htlwienwest_4bbif_pos01_2026.iml" filepath="$PROJECT_DIR$/htlwienwest_4bbif_pos01_2026.iml" />
     </modules>
   </component>
