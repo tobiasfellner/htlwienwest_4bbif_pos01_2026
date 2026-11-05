@@ -11,6 +11,8 @@
       <module fileurl="file://$PROJECT_DIR$/04_oop_constructors/04_oop_constructors.iml" filepath="$PROJECT_DIR$/04_oop_constructors/04_oop_constructors.iml" />
       <module fileurl="file://$PROJECT_DIR$/04_oop_methods/04_oop_methods.iml" filepath="$PROJECT_DIR$/04_oop_methods/04_oop_methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/04_oop_methods_gym/04_oop_methods_gym.iml" filepath="$PROJECT_DIR$/04_oop_methods_gym/04_oop_methods_gym.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_oop_methods_wuerfel/04_oop_methods_wuerfel.iml" filepath="$PROJECT_DIR$/04_oop_methods_wuerfel/04_oop_methods_wuerfel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_oop_static_schueler/04_oop_static_schueler.iml" filepath="$PROJECT_DIR$/04_oop_static_schueler/04_oop_static_schueler.iml" />
       <module fileurl="file://$PROJECT_DIR$/htlwienwest_4bbif_pos01_2026.iml" filepath="$PROJECT_DIR$/htlwienwest_4bbif_pos01_2026.iml" />
     </modules>
   </component>
