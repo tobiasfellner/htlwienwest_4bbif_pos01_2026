@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/02_fileio/02_fileio.iml" filepath="$PROJECT_DIR$/02_fileio/02_fileio.iml" />
       <module fileurl="file://$PROJECT_DIR$/03_csv/03_csv.iml" filepath="$PROJECT_DIR$/03_csv/03_csv.iml" />
       <module fileurl="file://$PROJECT_DIR$/04_oop01/04_oop01.iml" filepath="$PROJECT_DIR$/04_oop01/04_oop01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_oop_autos/04_oop_autos.iml" filepath="$PROJECT_DIR$/04_oop_autos/04_oop_autos.iml" />
       <module fileurl="file://$PROJECT_DIR$/04_oop_constructors/04_oop_constructors.iml" filepath="$PROJECT_DIR$/04_oop_constructors/04_oop_constructors.iml" />
       <module fileurl="file://$PROJECT_DIR$/04_oop_methods/04_oop_methods.iml" filepath="$PROJECT_DIR$/04_oop_methods/04_oop_methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/04_oop_methods_gym/04_oop_methods_gym.iml" filepath="$PROJECT_DIR$/04_oop_methods_gym/04_oop_methods_gym.iml" />
