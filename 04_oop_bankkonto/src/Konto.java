@@ -5,7 +5,27 @@ public class Konto {
 
     public Konto(Person inhaber){
         this.inhaber = inhaber;
-        this.kontonummer = KontoHelper.getNaechsteKontonummer();
+        this.kontonummer = Bank.getNaechsteKontonummer();
+    }
+
+    public void einzahlen(double betrag){
+        if(betrag > 0){
+            kontostand = kontostand + betrag;
+        }
+    }
+
+    public void auszahlen(double betrag){
+        if(betrag > 0){
+            kontostand = kontostand - betrag;
+        }
+    }
+
+    public boolean istZahlungsfaehig(double betrag){
+        return kontostand >= betrag;
+    }
+
+    public String getPersonName(){
+        return inhaber.getName();
     }
 
     public String getKontoInfo(){

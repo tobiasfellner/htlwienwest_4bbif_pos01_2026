@@ -9,5 +9,16 @@ public class Main {
         Person personB = new Person("Elon", "Musk", LocalDate.of(1976, 10, 16));
         Konto b = new Konto(personB);
         System.out.println(b.getKontoInfo());
+
+        System.out.println("Einzahlen");
+        a.einzahlen(10000);
+        System.out.println(a.getKontoInfo());
+
+        System.out.println("Überweisung");
+        Bank.ueberweisen(a, b, 5000);
+        System.out.println(a.getKontoInfo());
+        System.out.println(b.getKontoInfo());
+
+
     }
 }
