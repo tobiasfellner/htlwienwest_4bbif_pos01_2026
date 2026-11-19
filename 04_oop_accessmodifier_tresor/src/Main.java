@@ -2,7 +2,6 @@ public class Main {
     public static void main(String[] args) {
         Tresor schluesselSafe1 = new Tresor();
         boolean success = schluesselSafe1.changePin("0000", "1234");
-
         if(success){
             System.out.println("Pin erfolgreich geändert");
         }else{
