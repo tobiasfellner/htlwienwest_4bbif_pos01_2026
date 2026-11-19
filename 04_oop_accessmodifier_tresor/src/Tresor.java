@@ -22,4 +22,16 @@ public class Tresor {
         }
         return "versperrt";
     }
+
+    public boolean unlock(String inputPin){
+        if (inputPin.equals(currentPin)) {
+            isOpen = true;
+        }
+        return isOpen;
+    }
+
+    public boolean lock(){
+        isOpen = false;
+        return true;
+    }
 }

@@ -10,5 +10,14 @@ public class Main {
         }
 
         System.out.println("Tresor ist " + schluesselSafe1.getStatus());
+        boolean unlockSuccess = schluesselSafe1.unlock("1234");
+        if(unlockSuccess){
+            System.out.println("erfolgreich entsperrt");
+        }
+
+        boolean lockSuccess = schluesselSafe1.lock();
+        if(lockSuccess){
+            System.out.println("erfolgreich gesperrt");
+        }
     }
 }
