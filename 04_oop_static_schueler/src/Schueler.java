@@ -3,7 +3,7 @@ import java.util.Locale;
 
 public class Schueler {
 
-     int anzahl;
+    int anzahl;
     String vorname;
     String nachname;
     String wohnort;

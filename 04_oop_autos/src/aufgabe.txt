@@ -1,0 +1,8 @@
+// neue Klasse Auto: Marke, Modell, Kennzeichen, AnzahlBesitzer
+mit Methoden:
+    - print() => gibt Marke, Modell, Kennzeichen, anz. Besitzer aus
+    - isEqualTo(Auto other) => ob Marke und Modell gleich sind
+    - isExactTo(Auto other) => ob Marke, Modell und Kennzeichen gleich sind
+    - verkaufen() => AnzahlBesitzer erhöhen
+
+zwei Autos anlegen, ausgeben, verkaufen, ausgeben
