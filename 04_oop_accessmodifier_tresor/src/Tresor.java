@@ -2,7 +2,7 @@ public class Tresor {
     private final int PIN_LENTH = 4;
     // Felder
     private String currentPin;
-    private boolean isOpen = false;
+    public boolean isOpen = false;
 
     public Tresor(){
         currentPin = "0000";

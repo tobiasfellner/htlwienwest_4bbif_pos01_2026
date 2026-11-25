@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/02_fileio/02_fileio.iml" filepath="$PROJECT_DIR$/02_fileio/02_fileio.iml" />
       <module fileurl="file://$PROJECT_DIR$/03_csv/03_csv.iml" filepath="$PROJECT_DIR$/03_csv/03_csv.iml" />
       <module fileurl="file://$PROJECT_DIR$/04_oop01/04_oop01.iml" filepath="$PROJECT_DIR$/04_oop01/04_oop01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_oop_accessmodifier_parkhaus/04_oop_accessmodifier_parkhaus.iml" filepath="$PROJECT_DIR$/04_oop_accessmodifier_parkhaus/04_oop_accessmodifier_parkhaus.iml" />
       <module fileurl="file://$PROJECT_DIR$/04_oop_accessmodifier_tresor/04_oop_accessmodifier_tresor.iml" filepath="$PROJECT_DIR$/04_oop_accessmodifier_tresor/04_oop_accessmodifier_tresor.iml" />
       <module fileurl="file://$PROJECT_DIR$/04_oop_autos/04_oop_autos.iml" filepath="$PROJECT_DIR$/04_oop_autos/04_oop_autos.iml" />
       <module fileurl="file://$PROJECT_DIR$/04_oop_bankkonto/04_oop_bankkonto.iml" filepath="$PROJECT_DIR$/04_oop_bankkonto/04_oop_bankkonto.iml" />
